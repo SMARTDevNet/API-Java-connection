@@ -1,0 +1,18 @@
+# .gitignore
+
+# IntelliJ
+.idea/workspace.xml
+.idea/misc.xml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+# Mac
+.DS_Store
